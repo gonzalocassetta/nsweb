@@ -1,6 +1,6 @@
 // Contact component with Google Maps location and social media links (WhatsApp, Facebook, Email)
-import { import { motion } from "framer-motion"
-import type { CSSProperties } from "react"
+// import { addPropertyControls, ControlType } from "framer"
+// import { addPropertyControls, ControlType } from "framer"
 
 interface ContactProps {
     mapLink: string
