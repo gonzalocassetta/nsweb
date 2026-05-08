@@ -1,6 +1,6 @@
 import { import { motion, useInView } from "framer-motion"
 import { useRef, useState, useEffect, startTransition } from "react"
-import type { CSSProperties } from "react"
+// import { addPropertyControls, ControlType } from "framer"
 
 interface LiveHeroProps {
     title: string
