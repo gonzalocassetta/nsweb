@@ -1,5 +1,5 @@
 // Footer component - fully editable with property controls for all elements
-import { import type { CSSProperties } from "react"
+// import { addPropertyControls, ControlType } from "framer"
 import { useState, useEffect } from "react"
 
 interface ContactInfo {
