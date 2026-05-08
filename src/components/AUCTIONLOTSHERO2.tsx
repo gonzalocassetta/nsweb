@@ -1,7 +1,6 @@
 // Mini hero section para introducir los lotes del remate de antigüedades
 
-import { import type { CSSProperties } from "react"
-
+// import { addPropertyControls, ControlType } from "framer"
 interface AuctionLotsHeroProps {
     title: string
     subtitle: string
